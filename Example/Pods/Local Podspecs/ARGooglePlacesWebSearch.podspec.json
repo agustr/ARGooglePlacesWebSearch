@@ -1,0 +1,25 @@
+{
+  "name": "ARGooglePlacesWebSearch",
+  "version": "0.1.0",
+  "summary": "A short description of ARGooglePlacesWebSearch.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ARGooglePlacesWebSearch",
+  "license": "MIT",
+  "authors": {
+    "Agust Rafnsson": "agustr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ARGooglePlacesWebSearch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ARGooglePlacesWebSearch": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

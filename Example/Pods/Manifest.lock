@@ -1,0 +1,14 @@
+PODS:
+  - ARGooglePlacesWebSearch (0.1.0)
+
+DEPENDENCIES:
+  - ARGooglePlacesWebSearch (from `../`)
+
+EXTERNAL SOURCES:
+  ARGooglePlacesWebSearch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ARGooglePlacesWebSearch: 8a929f454e12264e39a477757c020b369dc7a401
+
+COCOAPODS: 0.39.0.beta.3

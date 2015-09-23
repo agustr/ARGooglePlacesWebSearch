@@ -1,0 +1,6 @@
+framework module ARGooglePlacesWebSearch {
+  umbrella header "ARGooglePlacesWebSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

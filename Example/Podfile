@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'ARGooglePlacesWebSearch_Example', :exclusive => true do
+  pod "ARGooglePlacesWebSearch", :path => "../"
+end
+
+target 'ARGooglePlacesWebSearch_Tests', :exclusive => true do
+  pod "ARGooglePlacesWebSearch", :path => "../"
+
+  
+end
